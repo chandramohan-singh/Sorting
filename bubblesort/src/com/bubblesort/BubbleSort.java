@@ -1,5 +1,10 @@
 package com.bubblesort;
 
+/**
+ * 
+ * @author Chandra Mohan Singh
+ *
+ */
 public class BubbleSort {
 
 	public void bubbleSort(int arr[]) {
