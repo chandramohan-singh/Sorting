@@ -1,5 +1,10 @@
 package com.selectionsort;
 
+/**
+ * 
+ * @author Chandra Mohan Singh
+ *
+ */
 public class SelectionSortMain {
 
 	public static void main(String[] args) {
